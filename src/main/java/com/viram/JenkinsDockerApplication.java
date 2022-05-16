@@ -14,7 +14,7 @@ public class JenkinsDockerApplication {
 	}
 	
 	
-	@GetMapping
+	@GetMapping("/welcome")
 	public String welcome() {
 		return "Welcome";
 	}
