@@ -36,7 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>apps</finalName>
+		<finalName>jenkins-docker-0.0.1-SNAPSHOT</finalName>
 	</build>
 
 </project>
